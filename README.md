@@ -7,15 +7,13 @@ Kod yazmayı bir disiplin haline getirmiş, her gün GitHub üzerinden teknik be
 ### 🚀 Neler Yapıyorum?
 
 - 💻 **Günlük Gelişim:** Teknik kaslarımı güçlü tutmak için her gün GitHub üzerinde aktif olarak kod yazıyor ve commit atıyorum.
-- ✍️ **Blog & Projeler:** Kendi platformum olan **[fsmarslan.com](https://fsmarslan.com)** üzerinden projelerimin detaylarını ve teknik makalelerimi paylaşıyorum.
-- 📢 **Görünürlük:** Haftalık olarak LinkedIn üzerinde o hafta edindiğim tecrübeleri ve projelerimdeki ilerlemeleri paylaşıyorum.
+- ✍️ **Blog & Projeler:** Kendi platformum olan **[fsmarslan.com](https://www.fsmarslan.com)** üzerinden projelerimin detaylarını ve teknik makalelerimi paylaşıyorum.
 
 ---
 
 ### 🛠️ Teknolojiler & Araçlar
 
-*(Buradaki ikonları kullandığın teknolojilere göre düzenleyebilirsin)*
-![Tech Stack](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,git,github,vscode,python)
+![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,nodejs,git,github,vscode,python,csharp)
 
 ---
 
