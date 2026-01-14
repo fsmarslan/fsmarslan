@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Adın Soyadın] (fsmarslan)
+# 👋 Merhaba, ben Fatih Sultan Mehmed Arslan (fsmarslan)
 
 Kod yazmayı bir disiplin haline getirmiş, her gün GitHub üzerinden teknik becerilerimi geliştiren ve öğrendiklerimi toplulukla paylaşmayı hedefleyen bir geliştiriciyim.
 
@@ -32,9 +32,7 @@ Kod yazmayı bir disiplin haline getirmiş, her gün GitHub üzerinden teknik be
 
 ### 📫 Benimle Bağlantı Kurun
 
-- 🌐 **Web Sitem:** [fsmarslan.com](https://fsmarslan.com)
-- 💼 **LinkedIn:** [LinkedIn Profil Linkin buraya]
-- 📧 **E-posta:** [E-posta adresin buraya]
+- 🌐 **Web Sitem:** [fsmarslan.com](https://www.fsmarslan.com)
 
 ---
 
