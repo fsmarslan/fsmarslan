@@ -13,7 +13,7 @@ Kod yazmayı bir disiplin haline getirmiş, her gün GitHub üzerinden teknik be
 
 ### 🛠️ Teknolojiler & Araçlar
 
-![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,git,github,vscode,python,cs,cloudflare,css,dotnet,fastapi,figma,flask,html,npm,sqlite,tailwind,unity,vite)
+![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,git,github,vscode,python,cs,cloudflare,css,dotnet,fastapi,figma,flask,html,npm,sqlite,tailwind,unity,vite,docker)
 
 ---
 
