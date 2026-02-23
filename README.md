@@ -1,26 +1,27 @@
-# 👋 Merhaba, ben Fatih Sultan Mehmed Arslan (fsmarslan)
+👋 Merhaba, ben Fatih Sultan Mehmed Arslan (fsmarslan)
+E-ticaret dünyasının dinamiklerini, yazılımın gücüyle birleştiren bir E-Ticaret Uzman Yardımcısı ve Geliştiriciyim. Operasyonel süreçleri yönetirken, teknik becerilerimi iş akışlarını optimize etmek ve veri odaklı kararlar almak için kullanıyorum.
 
-Kod yazmayı bir disiplin haline getirmiş, her gün GitHub üzerinden teknik becerilerimi geliştiren ve öğrendiklerimi toplulukla paylaşmayı hedefleyen bir geliştiriciyim.
+🚀 Neler Yapıyorum?
+🛒 E-Ticaret Yönetimi: yigitalisveris.com.tr bünyesinde operasyonel süreçler, ürün yönetimi ve dijital pazarlama üzerine odaklanıyorum.
 
----
+⚙️ Teknik E-Ticaret: Yazılım geçmişimi kullanarak SEO optimizasyonları, Google Analytics 4 (GA4) takibi ve süreç otomasyonları (Python) geliştiriyorum.
 
-### 🚀 Neler Yapıyorum?
+📈 Dijital Strateji: Google Ads ve Meta Ads süreçlerini yönetiyor, e-ticaret platformlarını teknik ve görsel açıdan (UI/UX) iyileştiriyorum.
 
-- 💻 **Günlük Gelişim:** Teknik kaslarımı güçlü tutmak için her gün GitHub üzerinde aktif olarak kod yazıyor ve commit atıyorum.
-- ✍️ **Blog & Projeler:** Kendi platformum olan **[fsmarslan.com](https://www.fsmarslan.com)** üzerinden projelerimin detaylarını ve teknik makalelerimi paylaşıyorum.
+💻 Gelişim: Her gün GitHub üzerinde aktif kalarak, e-ticaret ekosistemine değer katacak yeni teknolojiler öğrenmeye devam ediyorum.
 
----
+🛠️ Yetkinlikler & Araçlar
+E-Ticaret & Dijital Pazarlama
+(SEO, Google Ads, Meta Ads, Google Analytics 4, E-Ticaret Panel Yönetimi)
 
-### 🛠️ Teknolojiler & Araçlar
+Yazılım & Geliştirme
 
-![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,git,github,vscode,python,cs,cloudflare,css,dotnet,fastapi,figma,flask,html,npm,sqlite,tailwind,unity,vite,docker)
+📊 Projeler & Yayınlar
+✍️ Kişisel Blog: fsmarslan.com üzerinden teknik makalelerimi ve e-ticaret odaklı projelerimi paylaşıyorum.
 
----
+🔧 Açık Kaynak: E-ticaret süreçlerini kolaylaştıran Python tabanlı araçlar ve açık kaynaklı framework katkıları üzerine çalışıyorum.
 
-### 📫 Benimle Bağlantı Kurun
+📫 Benimle Bağlantı Kurun
+🌐 Web Sitem: fsmarslan.com
 
-- 🌐 **Web Sitem:** [fsmarslan.com](https://www.fsmarslan.com)
-
----
-
-> *"Gelişim, her gün küçük bir adım atmaktır."* ```
+📍 Konum: Üsküdar, İstanbul
