@@ -1,27 +1,29 @@
-👋 Merhaba, ben Fatih Sultan Mehmed Arslan (fsmarslan)
-E-ticaret dünyasının dinamiklerini, yazılımın gücüyle birleştiren bir E-Ticaret Uzman Yardımcısı ve Geliştiriciyim. Operasyonel süreçleri yönetirken, teknik becerilerimi iş akışlarını optimize etmek ve veri odaklı kararlar almak için kullanıyorum.
+# Merhaba, ben Fatih Sultan Mehmed Arslan 👋
 
-🚀 Neler Yapıyorum?
-🛒 E-Ticaret Yönetimi: yigitalisveris.com.tr bünyesinde operasyonel süreçler, ürün yönetimi ve dijital pazarlama üzerine odaklanıyorum.
+E-ticaret operasyonları ile yazılım geliştirmeyi bir araya getiriyorum. Ürün ve fiyat takibi, süreç otomasyonu ve veriye dayalı kararları destekleyen araçlar üzerine çalışıyorum.
 
-⚙️ Teknik E-Ticaret: Yazılım geçmişimi kullanarak SEO optimizasyonları, Google Analytics 4 (GA4) takibi ve süreç otomasyonları (Python) geliştiriyorum.
+## Odak alanlarım
 
-📈 Dijital Strateji: Google Ads ve Meta Ads süreçlerini yönetiyor, e-ticaret platformlarını teknik ve görsel açıdan (UI/UX) iyileştiriyorum.
+- **E-ticaret:** Ürün yönetimi, operasyonel süreçler ve dijital pazarlama.
+- **Analiz ve otomasyon:** Python ile veri toplama, fiyat takibi ve raporlama.
+- **Uygulama geliştirme:** FastAPI, Next.js ve TypeScript ile günlük ihtiyaçlara yönelik araçlar.
 
-💻 Gelişim: Her gün GitHub üzerinde aktif kalarak, e-ticaret ekosistemine değer katacak yeni teknolojiler öğrenmeye devam ediyorum.
+## Öne çıkan projeler
 
-🛠️ Yetkinlikler & Araçlar
-E-Ticaret & Dijital Pazarlama
-(SEO, Google Ads, Meta Ads, Google Analytics 4, E-Ticaret Panel Yönetimi)
+| Proje | Çözdüğü problem | Teknolojiler |
+| --- | --- | --- |
+| [Market Intelligence Tool](https://github.com/fsmarslan/market-intelligience-tool) | Belirlenen ürünlerin fiyatlarını takip eder ve Telegram üzerinden raporlar. | Python, BeautifulSoup, Telegram Bot API |
+| [Araç Maliyet Hesaplama](https://github.com/fsmarslan/arac-maliyet-hesaplama) | Yakıt, bakım, sarf parçaları ve değer kaybını kilometre başına maliyette birleştirir. | FastAPI, SQLite, Next.js, TypeScript |
+| [AuraDrive Pro](https://github.com/fsmarslan/yol_bilgisayari) | OBD-II verilerini mobil bir yol bilgisayarında toplar; sürüş ve tahmini tüketim takibi sunar. | Next.js, Capacitor, Android, Python, Bluetooth LE |
 
-Yazılım & Geliştirme
+## Kullandığım araçlar
 
-📊 Projeler & Yayınlar
-✍️ Kişisel Blog: fsmarslan.com üzerinden teknik makalelerimi ve e-ticaret odaklı projelerimi paylaşıyorum.
+**Yazılım:** Python · FastAPI · SQLite · TypeScript · React / Next.js · Git
 
-🔧 Açık Kaynak: E-ticaret süreçlerini kolaylaştıran Python tabanlı araçlar ve açık kaynaklı framework katkıları üzerine çalışıyorum.
+**E-ticaret ve pazarlama:** SEO · Google Analytics 4 · Google Ads · Meta Ads · E-ticaret panel yönetimi
 
-📫 Benimle Bağlantı Kurun
-🌐 Web Sitem: fsmarslan.com
+## Bağlantılar
 
-📍 Konum: Üsküdar, İstanbul
+- [Web sitem ve blogum](https://fsmarslan.com)
+- [GitHub projelerim](https://github.com/fsmarslan?tab=repositories)
+- Üsküdar, İstanbul
